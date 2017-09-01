@@ -1,3 +1,5 @@
+//auther: Shuhao Chen
+//Date: 08312017
 function threeSum(nums) {
     let res = [];
     for (let i = 0; i < nums.length; i++) {
